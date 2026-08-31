@@ -38,5 +38,16 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 Then it asked me to enter the password for authenticity since i have got a password from readme file i enter the password and finally I successfully logged in as bandit1 server user.
 
 # what i learned from this bandit1 level:
-          Using SSH to connect to remote server 
+          Using SSH to connect to remote server
+          Using "ls" to list the files 
+          Using "cat" to read the content of file
+          Using a password to authenticate the other account of SSH
+
+# Commands I used:
+       ssh bandit0@bandit.labs.overthewire.org -p 2220
+       ls
+       cat readme
+       ssh bandit1@bandit.labs.overthewire.org -p 2220
+# Platform
+OverTheWire-Bandit
           
