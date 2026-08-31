@@ -33,3 +33,15 @@ bash:
 ssh bandit0@bandit.labs.OverTheWire.org -p 2220
 
 # what I learned is:
+What ssh is used for 
+          How to connect a remote server using SSH
+          the meaning of "username@host"
+          How to specify a custom SSH port by using "-p"
+          How SSH stores a trusted host key after the first connection
+# Result
+I successfully connected to the OverTheWire bandit server as a user "bandit0".
+
+  platform: OverTheWire
+  Game:bandit
+  level: 0
+  
