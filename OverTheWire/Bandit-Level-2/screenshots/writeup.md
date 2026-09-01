@@ -15,7 +15,8 @@ SSH bandit1@bandit.labs.overthewire.org -p 2220
 
 The very important part is:
 
-![ the output of the command](screenshots/Command_1.png)
+<img width="1280" height="800" alt="Command_1" src="https://github.com/user-attachments/assets/c0ca9f27-779f-4da6-b038-24af2029114e" />
+
 
 After that,it ask as the password to authenticity, since we have a password we get in level 0 from a file "readme" we enter that password then we successfully  logged in as bandit_1 
 
