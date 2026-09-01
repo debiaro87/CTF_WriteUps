@@ -13,6 +13,10 @@ bash:
 
 SSH bandit1@bandit.labs.overthewire.org -p 2220
 
+The very important part is:
+
+![ the output of the command](screenshots/Command_1.png)
+
 After that,it ask as the password to authenticity, since we have a password we get in level 0 from a file "readme" we enter that password then we successfully  logged in as bandit_1 
 
 ## step 2 check the file:
