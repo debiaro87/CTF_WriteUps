@@ -55,6 +55,11 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 and it ask us the password then we enter the password we get from bandit1 "-" file finally we logged in as a bandit2 server 
 
+Look at this image and understand:
+
+<img width="1280" height="800" alt="read and loggin_2" src="https://github.com/user-attachments/assets/ec49b4b8-a098-4de3-82d2-ad9ee432d32c" />
+
+
 # what i learned:
           When we want to read the files that named in symbol we have to tell to the terminal first as we are in the directory unless it take as another option and error is occured
 # Note:
