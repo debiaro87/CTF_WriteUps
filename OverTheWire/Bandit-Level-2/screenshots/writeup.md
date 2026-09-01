@@ -13,5 +13,5 @@ bash:
 
 SSH bandit1@bandit.labs.overthewire.org -p 2220
 
-After that it ask as the password to authenticity, since we have a password we get in level 1 from a file "-" we enter that password then we successfully  logged in as bandit_2 
+After that it ask as the password to authenticity, since we have a password we get in level 1 from a file "-" we enter that password then we successfully  logged in as bandit_1 
 
