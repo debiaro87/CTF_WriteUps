@@ -4,7 +4,7 @@
 The main goal of this level is to find the password of bandit level 3 in the "--spaces in this filename--" file that exist in  home directory of bandit level 2. 
 
 After finding the password , use it to log in to "bandit_3" account by using ssh on port "2220"
-## To solve this we pass through three steps:
+## To solve this we pass through Four steps:
 ## step 1: log in to Bandit_2
 
 First we have to log in as bandit_2 in to the server, to do that we write a command :
