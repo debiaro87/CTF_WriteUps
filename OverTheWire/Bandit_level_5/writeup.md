@@ -67,7 +67,8 @@ finally we get the password of bandit level 5
               ls ~ list files 
               file ./* ~ identify the type of all files
               cat ./-filename ~ read a file 
-## Platform
+## Platform:
+OverTheWire:Bandit
 
 
 
