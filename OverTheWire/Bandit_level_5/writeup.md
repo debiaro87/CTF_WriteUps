@@ -60,7 +60,15 @@ bash
 cat ./-file07
 
 
-finally we get the password of bandit level 5
+finally we get the password of bandit level 5 
+<img width="1280" height="800" alt="Done" src="https://github.com/user-attachments/assets/91039838-cdc5-4b31-b298-aa425376f434" />
+
+## What i learned :
+              ls ~ list files 
+              file ./* ~ identify the type of all files
+              cat ./-filename ~ read a file 
+## Platform
+
 
 
 
